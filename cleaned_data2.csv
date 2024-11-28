@@ -1,0 +1,720 @@
+Laptop Brand,RAM_GB,Storage,Extracted Processor,Conditions,Prices,Regions
+Lenovo,16.0,SSD,I5,Used,4000,Greater Accra
+HP,8.0,HDD,I5,Used,4200,Greater Accra
+HP,8.0,SSD,I5,Used,3100,Greater Accra
+Dell,8.0,SSD,I5,Used,4800,Greater Accra
+Dell,8.0,SSD,I5,Used,2300,Greater Accra
+Dell,8.0,SSD,I5,Used,2800,Greater Accra
+HP,16.0,SSD,I5,Used,2000,Western Region
+Dell,16.0,SSD,I7,Brand New,15984,Ashanti
+HP,8.0,SSD,I5,Used,3100,Ashanti
+HP,8.0,SSD,I5,Used,3999,Greater Accra
+Dell,16.0,SSD,I7,Used,4400,Greater Accra
+Dell,8.0,SSD,I7,Used,3000,Greater Accra
+Acer,16.0,SSD,I5,Brand New,10200,Greater Accra
+HP,8.0,HDD,I5,Used,2300,Greater Accra
+Asus,16.0,SSD,I7,Brand New,11500,Greater Accra
+Dell,8.0,SSD,I5,Used,3000,Greater Accra
+Asus,8.0,HDD,I7,Used,3699,Western Region
+HP,16.0,SSD,I7,Brand New,12158,Ashanti
+Acer,8.0,HDD,I5,Brand New,4200,Greater Accra
+HP,8.0,HDD,I5,Used,2500,Ashanti
+MacBook,8.0,SSD,I5,Used,3000,Greater Accra
+HP,8.0,SSD,I3,Brand New,4300,Ashanti
+HP,8.0,SSD,I5,Used,2200,Greater Accra
+HP,8.0,HDD,I5,Used,3000,Greater Accra
+Asus,16.0,SSD,I7,Brand New,14000,Greater Accra
+HP,8.0,SSD,I5,Used,2800,Greater Accra
+HP,8.0,SSD,I7,Brand New,12850,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1700,Greater Accra
+Asus,8.0,SSD,I5,Used,3500,Greater Accra
+HP,16.0,SSD,I5,Used,5000,Greater Accra
+HP,8.0,HDD,I7,Used,2500,Greater Accra
+Dell,8.0,SSD,I5,Used,3600,Greater Accra
+HP,8.0,SSD,I3,Used,2850,Greater Accra
+Dell,16.0,SSD,I5,Used,2800,Greater Accra
+HP,8.0,SSD,I7,Used,4200,Greater Accra
+Dell,8.0,SSD,I5,Used,3500,Greater Accra
+MacBook,16.0,SSD,I7,Used,8200,Greater Accra
+HP,16.0,SSD,I5,Brand New,3950,Ashanti
+HP,8.0,SSD,I3,Used,3200,Greater Accra
+Lenovo,16.0,SSD,I7,Brand New,4600,Greater Accra
+Dell,8.0,HDD,I5,Used,1550,Greater Accra
+HP,8.0,HDD,I5,Used,2100,Greater Accra
+HP,8.0,HDD,I7,Used,3899,Greater Accra
+HP,8.0,SSD,I5,Used,4650,Central Region
+Lenovo,16.0,SSD,I7,Brand New,7900,Greater Accra
+Lenovo,16.0,HDD,I7,Used,2700,Greater Accra
+HP,8.0,SSD,I5,Used,3200,Greater Accra
+HP,16.0,SSD,I5,Brand New,9500,Greater Accra
+Dell,16.0,SSD,I7,Used,6499,Greater Accra
+Acer,4.0,HDD,I3,Used,1600,Greater Accra
+MacBook,8.0,SSD,I5,Used,7500,Greater Accra
+HP,8.0,SSD,I5,Brand New,9600,Greater Accra
+HP,16.0,SSD,I7,Used,7450,Greater Accra
+HP,16.0,SSD,I7,Used,13500,Ashanti
+MacBook,8.0,SSD,I5,Used,8900,Greater Accra
+HP,8.0,HDD,I7,Brand New,3550,Ashanti
+Dell,16.0,HDD,I5,Brand New,7999,Greater Accra
+MacBook,8.0,SSD,I5,Used,8700,Greater Accra
+HP,4.0,HDD,I5,Brand New,8343,Western Region
+Lenovo,8.0,SSD,I5,Used,2450,Greater Accra
+Dell,16.0,SSD,I7,Used,7000,Ashanti
+HP,8.0,HDD,I5,Used,3900,Greater Accra
+HP,8.0,SSD,I7,Brand New,12500,Greater Accra
+Dell,16.0,SSD,I7,Brand New,15000,Ashanti
+HP,16.0,SSD,I7,Used,7600,Greater Accra
+Dell,8.0,SSD,I5,Used,1750,Greater Accra
+HP,16.0,SSD,I7,Used,7000,Ashanti
+HP,8.0,SSD,I7,Used,5300,Greater Accra
+MacBook,8.0,SSD,I5,Used,7800,Greater Accra
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+Dell,8.0,HDD,I5,Used,2400,Greater Accra
+Dell,4.0,HDD,I7,Used,900,Greater Accra
+HP,8.0,SSD,I3,Brand New,4992,Ashanti
+HP,16.0,SSD,I7,Used,5500,Greater Accra
+Acer,6.0,HDD,I5,Used,1500,Ashanti
+HP,8.0,SSD,I3,Brand New,4150,Greater Accra
+Dell,8.0,SSD,I7,Brand New,4800,Greater Accra
+Dell,16.0,SSD,I7,Brand New,14000,Greater Accra
+HP,16.0,SSD,I5,Used,6500,Greater Accra
+Lenovo,8.0,SSD,I7,Unknown,2800,Greater Accra
+HP,8.0,SSD,I5,Used,2800,Greater Accra
+Asus,16.0,HDD,I7,Brand New,5500,Greater Accra
+Dell,8.0,HDD,I3,Used,2500,Ashanti
+MacBook,8.0,SSD,I5,Used,3700,Greater Accra
+HP,8.0,SSD,I5,Used,4200,Greater Accra
+Dell,8.0,HDD,I5,Used,2450,Greater Accra
+HP,8.0,SSD,I5,Used,4650,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3900,Ashanti
+Dell,16.0,SSD,I5,Used,3450,Central Region
+HP,12.0,SSD,I5,Brand New,8600,Greater Accra
+HP,16.0,SSD,I5,Brand New,9500,Ashanti
+MacBook,16.0,SSD,I7,Used,4950,Greater Accra
+HP,8.0,SSD,I5,Used,3400,Ashanti
+MacBook,16.0,SSD,I7,Used,5800,Greater Accra
+HP,8.0,SSD,I5,Used,4100,Greater Accra
+HP,8.0,SSD,I5,Used,3400,Greater Accra
+MacBook,8.0,SSD,I5,Used,8500,Greater Accra
+Dell,16.0,HDD,I7,Used,2800,Greater Accra
+HP,8.0,HDD,I3,Unknown,1500,Greater Accra
+Dell,8.0,SSD,I7,Used,3000,Greater Accra
+Dell,8.0,SSD,I5,Unknown,5500,Greater Accra
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+Dell,8.0,HDD,I3,Used,1750,Greater Accra
+HP,8.0,SSD,I7,Brand New,8200,Greater Accra
+HP,4.0,HDD,I3,Used,1550,Greater Accra
+Asus,16.0,SSD,I5,Used,8200,Greater Accra
+HP,8.0,HDD,I5,Used,1950,Greater Accra
+HP,8.0,SSD,I5,Used,2000,Greater Accra
+Dell,6.0,HDD,I5,Used,2000,Ashanti
+Lenovo,8.0,HDD,I5,Used,2400,Greater Accra
+HP,8.0,SSD,I5,Used,5200,Greater Accra
+Lenovo,8.0,SSD,I7,Used,4850,Greater Accra
+HP,16.0,SSD,I5,Used,3500,Greater Accra
+HP,8.0,SSD,I7,Used,4100,Ashanti
+Lenovo,16.0,SSD,I7,Brand New,18500,Greater Accra
+Lenovo,8.0,HDD,I7,Used,1800,Greater Accra
+MacBook,8.0,SSD,I5,Used,4200,Greater Accra
+Dell,4.0,HDD,I3,Used,1200,Ashanti
+Dell,16.0,SSD,I7,Brand New,14000,Greater Accra
+HP,4.0,HDD,I5,Used,1500,Central Region
+HP,4.0,HDD,I5,Used,2800,Greater Accra
+Lenovo,16.0,SSD,I7,Used,8000,Greater Accra
+HP,8.0,SSD,I5,Brand New,4500,Greater Accra
+Lenovo,8.0,SSD,I3,Used,2850,Central Region
+HP,8.0,HDD,I5,Used,1700,Greater Accra
+Dell,16.0,SSD,I5,Brand New,2990,Greater Accra
+MacBook,4.0,HDD,I5,Used,2800,Greater Accra
+HP,16.0,SSD,I7,Used,5000,Greater Accra
+Lenovo,16.0,SSD,I5,Used,5200,Greater Accra
+HP,4.0,HDD,I3,Brand New,4200,Greater Accra
+HP,16.0,SSD,I7,Used,8999,Greater Accra
+Dell,16.0,SSD,I7,Brand New,14000,Greater Accra
+MacBook,8.0,SSD,I5,Used,4000,Greater Accra
+Asus,12.0,HDD,I7,Used,2500,Greater Accra
+Dell,8.0,HDD,I5,Used,2100,Greater Accra
+HP,8.0,SSD,I7,Brand New,15900,Greater Accra
+Asus,16.0,SSD,I7,Brand New,12999,Greater Accra
+MacBook,4.0,SSD,I5,Used,2550,Greater Accra
+HP,4.0,HDD,I3,Used,1500,Ashanti
+Dell,8.0,SSD,I5,Used,3800,Greater Accra
+MacBook,8.0,SSD,I5,Used,3500,Greater Accra
+HP,8.0,SSD,I5,Brand New,2700,Brong Ahafo
+Dell,8.0,SSD,I5,Used,2750,Ashanti
+HP,12.0,SSD,I7,Brand New,6850,Greater Accra
+Lenovo,16.0,SSD,I7,Used,4900,Ashanti
+Dell,16.0,SSD,I7,Used,12990,Greater Accra
+HP,8.0,HDD,I5,Used,3000,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3450,Greater Accra
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+HP,16.0,SSD,I7,Used,6500,Northern Region
+Dell,16.0,SSD,I7,Brand New,12000,Greater Accra
+HP,8.0,HDD,I3,Used,2900,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3700,Greater Accra
+Dell,8.0,SSD,I5,Used,3600,Greater Accra
+Dell,32.0,SSD,I9,Used,10500,Greater Accra
+HP,8.0,SSD,I5,Brand New,10500,Greater Accra
+Asus,4.0,HDD,I7,Used,1000,Ashanti
+Dell,8.0,HDD,I5,Used,2250,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3800,Greater Accra
+Dell,8.0,SSD,I5,Used,3000,Ashanti
+HP,12.0,HDD,I3,Used,2250,Greater Accra
+MacBook,8.0,SSD,I7,Used,3500,Greater Accra
+Dell,12.0,HDD,I5,Used,1200,Ashanti
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+HP,8.0,SSD,I5,Used,2500,Greater Accra
+Dell,8.0,SSD,I5,Used,3000,Greater Accra
+HP,16.0,SSD,I7,Brand New,12000,Greater Accra
+Dell,8.0,HDD,I5,Used,3000,Greater Accra
+HP,8.0,SSD,I5,Used,4100,Greater Accra
+Dell,8.0,HDD,I7,Used,2850,Greater Accra
+MacBook,4.0,SSD,I5,Used,2400,Greater Accra
+HP,8.0,HDD,I5,Used,2200,Greater Accra
+HP,8.0,HDD,I5,Used,2199,Greater Accra
+MacBook,16.0,SSD,I9,Used,13000,Greater Accra
+HP,8.0,SSD,I5,Used,3700,Greater Accra
+HP,16.0,SSD,I7,Used,6500,Greater Accra
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+HP,12.0,SSD,I5,Used,2400,Greater Accra
+Acer,8.0,SSD,I5,Brand New,12000,Greater Accra
+Asus,16.0,SSD,I7,Used,7999,Greater Accra
+MacBook,16.0,SSD,I7,Used,5500,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2550,Greater Accra
+Lenovo,8.0,SSD,I5,Brand New,8000,Greater Accra
+Lenovo,16.0,SSD,I5,Brand New,5800,Greater Accra
+HP,8.0,HDD,I7,Used,2450,Greater Accra
+HP,16.0,SSD,I7,Brand New,13500,Greater Accra
+HP,16.0,SSD,I7,Used,7800,Greater Accra
+Asus,8.0,SSD,I5,Used,3700,Greater Accra
+HP,8.0,HDD,I5,Used,1950,Greater Accra
+Lenovo,12.0,SSD,I5,Brand New,7399,Greater Accra
+Dell,8.0,SSD,I5,Used,4200,Ashanti
+Lenovo,8.0,SSD,I3,Used,1400,Greater Accra
+Dell,8.0,SSD,I5,Used,7000,Ashanti
+HP,8.0,HDD,I5,Used,2500,Greater Accra
+Lenovo,12.0,SSD,I5,Used,3100,Greater Accra
+HP,8.0,SSD,I5,Used,6000,Greater Accra
+Lenovo,8.0,SSD,I5,Unknown,1600,Greater Accra
+HP,4.0,HDD,I3,Used,1600,Greater Accra
+Dell,8.0,SSD,I5,Used,3500,Greater Accra
+HP,8.0,SSD,I5,Used,7950,Greater Accra
+Asus,8.0,SSD,I5,Used,4200,Greater Accra
+HP,12.0,SSD,I5,Used,1800,Greater Accra
+Lenovo,8.0,HDD,I3,Used,1500,Greater Accra
+MacBook,8.0,SSD,I5,Used,7999,Greater Accra
+HP,16.0,SSD,I5,Used,5300,Greater Accra
+Dell,8.0,SSD,I3,Used,4300,Greater Accra
+HP,8.0,SSD,I5,Used,5499,Greater Accra
+HP,16.0,SSD,I5,Brand New,6700,Ashanti
+Dell,4.0,HDD,I3,Used,1800,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3900,Greater Accra
+HP,8.0,SSD,I5,Unknown,3900,Ashanti
+Dell,8.0,SSD,I7,Used,2800,Ashanti
+Dell,16.0,SSD,I7,Used,5200,Greater Accra
+HP,8.0,HDD,I5,Used,4500,Greater Accra
+Dell,16.0,SSD,I7,Used,6200,Greater Accra
+Dell,16.0,SSD,I7,Used,8500,Greater Accra
+HP,8.0,SSD,I5,Used,4300,Greater Accra
+HP,8.0,HDD,I5,Used,2600,Greater Accra
+Dell,8.0,HDD,I5,Used,1250,Greater Accra
+HP,8.0,HDD,I5,Used,1950,Ashanti
+Dell,32.0,SSD,I7,Used,8800,Greater Accra
+Dell,8.0,HDD,I7,Used,2500,Greater Accra
+Lenovo,8.0,SSD,I5,Brand New,6999,Western Region
+HP,16.0,SSD,I7,Brand New,14000,Greater Accra
+MacBook,8.0,HDD,I7,Used,2000,Greater Accra
+HP,16.0,SSD,I7,Used,6350,Greater Accra
+Dell,16.0,SSD,I5,Used,3600,Greater Accra
+HP,4.0,SSD,I5,Used,1500,Greater Accra
+HP,8.0,SSD,I5,Used,3000,Central Region
+HP,16.0,SSD,I7,Brand New,17500,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1400,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2700,Greater Accra
+HP,8.0,SSD,I7,Used,3200,Greater Accra
+HP,8.0,SSD,I5,Brand New,12500,Greater Accra
+Dell,8.0,HDD,I7,Used,3200,Greater Accra
+MacBook,16.0,SSD,I7,Used,7500,Greater Accra
+MacBook,4.0,SSD,I5,Used,3350,Greater Accra
+Dell,4.0,HDD,I3,Used,1850,Greater Accra
+Dell,8.0,SSD,I5,Used,3700,Ashanti
+Dell,8.0,SSD,I7,Used,3800,Greater Accra
+HP,8.0,HDD,I5,Used,1250,Greater Accra
+HP,4.0,HDD,I3,Brand New,7500,Greater Accra
+Dell,8.0,SSD,I5,Used,2500,Ashanti
+Dell,8.0,SSD,I5,Used,3050,Greater Accra
+Lenovo,8.0,SSD,I5,Brand New,4950,Ashanti
+Dell,8.0,HDD,I5,Used,3100,Greater Accra
+Acer,16.0,SSD,I7,Used,11500,Greater Accra
+HP,8.0,SSD,I5,Used,3200,Greater Accra
+Dell,8.0,HDD,I5,Used,2150,Greater Accra
+HP,16.0,SSD,I7,Used,6600,Greater Accra
+Dell,8.0,SSD,I5,Brand New,3350,Greater Accra
+HP,8.0,SSD,I5,Used,3000,Greater Accra
+Dell,8.0,SSD,I3,Used,1700,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3950,Ashanti
+Lenovo,16.0,SSD,I7,Brand New,19500,Greater Accra
+HP,12.0,SSD,I5,Brand New,11500,Greater Accra
+Dell,16.0,SSD,I7,Used,11000,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3650,Greater Accra
+MacBook,16.0,SSD,I5,Used,9000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,5700,Greater Accra
+Dell,16.0,HDD,I7,Brand New,4850,Greater Accra
+HP,8.0,SSD,I5,Used,5100,Greater Accra
+Lenovo,8.0,HDD,I5,Used,2750,Greater Accra
+MacBook,8.0,SSD,I5,Used,3500,Ashanti
+MacBook,16.0,HDD,I7,Used,8400,Greater Accra
+HP,4.0,HDD,I3,Unknown,1800,Greater Accra
+Dell,8.0,SSD,I7,Used,3600,Greater Accra
+Dell,12.0,SSD,I7,Used,4000,Greater Accra
+Acer,4.0,HDD,I3,Brand New,1500,Ashanti
+HP,8.0,HDD,I3,Used,1450,Greater Accra
+Acer,8.0,SSD,I3,Brand New,4400,Greater Accra
+Dell,8.0,SSD,I5,Used,4200,Greater Accra
+HP,4.0,HDD,I3,Brand New,6700,Greater Accra
+Lenovo,8.0,HDD,I5,Used,2000,Ashanti
+HP,8.0,HDD,I5,Used,3600,Greater Accra
+Asus,4.0,HDD,I7,Used,1500,Greater Accra
+Acer,4.0,SSD,I3,Used,1799,Central Region
+Asus,16.0,SSD,I7,Brand New,13500,Ashanti
+Dell,16.0,HDD,I7,Used,1950,Greater Accra
+HP,16.0,SSD,I7,Brand New,13999,Greater Accra
+HP,8.0,SSD,I3,Used,3199,Western Region
+HP,8.0,HDD,I3,Unknown,1800,Greater Accra
+HP,16.0,SSD,I5,Used,3880,Greater Accra
+Acer,8.0,HDD,I7,Used,1800,Greater Accra
+Dell,8.0,SSD,I7,Unknown,5200,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3500,Ashanti
+HP,8.0,SSD,I3,Brand New,4450,Ashanti
+HP,16.0,SSD,I5,Brand New,13500,Greater Accra
+HP,8.0,SSD,I5,Used,4200,Greater Accra
+Dell,8.0,HDD,I5,Used,850,Greater Accra
+Acer,8.0,SSD,I5,Brand New,10000,Greater Accra
+HP,16.0,SSD,I5,Unknown,2800,Greater Accra
+MacBook,8.0,SSD,I3,Used,8000,Greater Accra
+Asus,16.0,SSD,I7,Brand New,11500,Greater Accra
+MacBook,16.0,SSD,I9,Used,13500,Ashanti
+Dell,12.0,SSD,I7,Brand New,3700,Ashanti
+Lenovo,16.0,SSD,I5,Used,4300,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1850,Greater Accra
+HP,8.0,SSD,I5,Brand New,11000,Greater Accra
+HP,16.0,SSD,I7,Used,8000,Greater Accra
+Lenovo,6.0,HDD,I3,Used,1350,Greater Accra
+HP,8.0,SSD,I5,Used,4500,Greater Accra
+Lenovo,4.0,HDD,I3,Used,2200,Greater Accra
+Dell,16.0,SSD,I7,Brand New,12199,Greater Accra
+HP,8.0,HDD,I5,Used,3800,Greater Accra
+Lenovo,12.0,SSD,I7,Brand New,10000,Greater Accra
+HP,16.0,SSD,I7,Used,10000,Ashanti
+Dell,8.0,SSD,I5,Brand New,11000,Greater Accra
+MacBook,4.0,SSD,I5,Used,1950,Greater Accra
+Dell,12.0,SSD,I5,Used,4500,Greater Accra
+HP,16.0,SSD,I7,Used,6800,Greater Accra
+Lenovo,8.0,SSD,I5,Brand New,2650,Ashanti
+Dell,8.0,SSD,I5,Used,5100,Greater Accra
+HP,8.0,HDD,I5,Used,2400,Greater Accra
+HP,4.0,HDD,I5,Used,1690,Greater Accra
+Asus,16.0,SSD,I7,Used,8500,Greater Accra
+MacBook,4.0,SSD,I5,Used,2600,Greater Accra
+HP,8.0,SSD,I7,Unknown,2700,Ashanti
+Dell,4.0,HDD,I3,Used,1600,Eastern Region
+Lenovo,8.0,SSD,I5,Used,3500,Greater Accra
+Dell,8.0,HDD,I3,Used,2200,Greater Accra
+Acer,4.0,HDD,I3,Used,1700,Central Region
+MacBook,8.0,SSD,I7,Used,4000,Greater Accra
+Dell,8.0,SSD,I7,Used,4400,Greater Accra
+Dell,8.0,HDD,I5,Used,2350,Greater Accra
+HP,8.0,SSD,I5,Used,2400,Greater Accra
+Dell,8.0,SSD,I7,Used,4200,Ashanti
+HP,8.0,HDD,I5,Used,3900,Ashanti
+Lenovo,4.0,SSD,I5,Used,1300,Greater Accra
+HP,16.0,SSD,I7,Used,5900,Greater Accra
+Acer,16.0,SSD,I5,Used,6350,Greater Accra
+Dell,8.0,HDD,I5,Used,1350,Greater Accra
+HP,8.0,SSD,I7,Brand New,9000,Greater Accra
+HP,4.0,HDD,I3,Used,1900,Greater Accra
+HP,16.0,SSD,I7,Used,8700,Greater Accra
+HP,8.0,HDD,I7,Used,2000,Ashanti
+Dell,8.0,SSD,I5,Used,3400,Greater Accra
+MacBook,8.0,HDD,I5,Unknown,2100,Ashanti
+Dell,8.0,SSD,I5,Used,2700,Greater Accra
+Dell,8.0,SSD,I5,Used,5700,Greater Accra
+Dell,4.0,HDD,I3,Used,1200,Greater Accra
+Lenovo,8.0,SSD,I7,Used,4300,Ashanti
+HP,16.0,HDD,I7,Used,3699,Western Region
+MacBook,8.0,SSD,I5,Used,4500,Greater Accra
+HP,8.0,SSD,I5,Brand New,10800,Greater Accra
+HP,8.0,SSD,I7,Used,6500,Ashanti
+Dell,4.0,HDD,I3,Used,3000,Ashanti
+Asus,32.0,SSD,I9,Brand New,13999,Greater Accra
+MacBook,6.0,HDD,I5,Used,2400,Greater Accra
+HP,4.0,HDD,I3,Brand New,6200,Greater Accra
+Dell,8.0,SSD,I7,Used,5000,Greater Accra
+Dell,8.0,HDD,I7,Used,2900,Greater Accra
+Acer,6.0,HDD,I3,Used,1300,Greater Accra
+Dell,16.0,SSD,I7,Used,5100,Greater Accra
+HP,8.0,SSD,I7,Used,2450,Greater Accra
+HP,8.0,HDD,I3,Used,2200,Greater Accra
+Dell,8.0,SSD,I5,Brand New,8900,Greater Accra
+HP,8.0,SSD,I5,Brand New,4500,Greater Accra
+Dell,16.0,SSD,I7,Brand New,18000,Greater Accra
+Dell,16.0,SSD,I7,Used,5500,Greater Accra
+Dell,8.0,SSD,I5,Used,2700,Greater Accra
+Dell,8.0,HDD,I7,Used,2850,Greater Accra
+Dell,4.0,HDD,I5,Used,2000,Western Region
+HP,8.0,SSD,I5,Brand New,7838,Western Region
+HP,32.0,SSD,I7,Used,9900,Greater Accra
+HP,8.0,HDD,I5,Brand New,3699,Western Region
+HP,4.0,HDD,I5,Used,3000,Greater Accra
+HP,8.0,SSD,I7,Used,2800,Greater Accra
+Dell,6.0,HDD,I7,Used,1550,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4000,Greater Accra
+HP,8.0,SSD,I5,Used,3399,Central Region
+Dell,8.0,HDD,I5,Used,2000,Greater Accra
+HP,16.0,SSD,I7,Used,6000,Greater Accra
+HP,8.0,SSD,I5,Brand New,8499,Greater Accra
+HP,8.0,SSD,I5,Brand New,2800,Greater Accra
+HP,8.0,SSD,I5,Brand New,9400,Greater Accra
+HP,4.0,HDD,I5,Used,1000,Ashanti
+HP,8.0,HDD,I5,Used,3500,Greater Accra
+MacBook,16.0,SSD,I7,Used,5500,Greater Accra
+Dell,8.0,SSD,I5,Brand New,7299,Greater Accra
+HP,8.0,SSD,I3,Used,2600,Greater Accra
+Dell,8.0,SSD,I5,Used,2950,Greater Accra
+Dell,16.0,SSD,I5,Used,10000,Greater Accra
+HP,8.0,SSD,I5,Used,4799,Greater Accra
+Dell,16.0,SSD,I7,Brand New,10999,Greater Accra
+Dell,8.0,SSD,I5,Used,4799,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1900,Greater Accra
+Lenovo,8.0,HDD,I3,Used,4000,Greater Accra
+Dell,8.0,SSD,I5,Used,3200,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4500,Greater Accra
+HP,16.0,SSD,I7,Used,4150,Central Region
+HP,4.0,HDD,I3,Brand New,6799,Greater Accra
+Lenovo,4.0,HDD,I3,Used,800,Central Region
+Dell,8.0,SSD,I7,Used,6300,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1800,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2750,Greater Accra
+Lenovo,16.0,SSD,I7,Used,5000,Greater Accra
+HP,16.0,SSD,I5,Brand New,9700,Greater Accra
+Dell,8.0,SSD,I5,Brand New,6050,Greater Accra
+HP,4.0,HDD,I5,Used,2000,Greater Accra
+HP,16.0,SSD,I7,Brand New,10800,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3000,Greater Accra
+Dell,4.0,SSD,I5,Used,2100,Western Region
+Dell,8.0,SSD,I5,Used,2850,Greater Accra
+Dell,16.0,SSD,I5,Brand New,11300,Ashanti
+Acer,4.0,HDD,I3,Used,1450,Ashanti
+HP,8.0,HDD,I5,Used,1250,Greater Accra
+Dell,8.0,SSD,I7,Brand New,3500,Greater Accra
+HP,8.0,SSD,I5,Brand New,3600,Ashanti
+HP,16.0,SSD,I5,Brand New,10000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,1600,Greater Accra
+HP,8.0,HDD,I5,Used,2550,Brong Ahafo
+Dell,16.0,SSD,I5,Brand New,12000,Ashanti
+Asus,4.0,HDD,I3,Used,1100,Ashanti
+MacBook,32.0,SSD,I5,Used,9399,Greater Accra
+HP,12.0,SSD,I7,Used,4200,Greater Accra
+HP,4.0,HDD,I3,Used,2350,Greater Accra
+MacBook,8.0,SSD,I5,Used,8800,Greater Accra
+HP,8.0,SSD,I5,Used,2799,Greater Accra
+Lenovo,8.0,SSD,I5,Used,1950,Ashanti
+Dell,16.0,HDD,I7,Used,2550,Greater Accra
+HP,8.0,SSD,I7,Unknown,3400,Ashanti
+HP,8.0,SSD,I7,Used,5500,Greater Accra
+HP,8.0,SSD,I5,Brand New,9850,Greater Accra
+Dell,8.0,HDD,I7,Used,1350,Greater Accra
+Dell,4.0,HDD,I5,Used,2250,Western Region
+Dell,16.0,SSD,I5,Brand New,7000,Greater Accra
+HP,256.0,SSD,I5,Used,2500,Greater Accra
+HP,16.0,SSD,I7,Brand New,10500,Ashanti
+HP,8.0,SSD,I7,Brand New,4700,Greater Accra
+Dell,8.0,HDD,I5,Used,3200,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2800,Ashanti
+Dell,4.0,HDD,I5,Used,900,Greater Accra
+Dell,4.0,HDD,I3,Used,2150,Greater Accra
+HP,8.0,SSD,I5,Used,4000,Greater Accra
+Dell,16.0,SSD,I5,Used,1600,Greater Accra
+HP,8.0,HDD,I5,Used,2590,Greater Accra
+Lenovo,4.0,HDD,I5,Unknown,1800,Greater Accra
+HP,8.0,SSD,I5,Used,2600,Greater Accra
+Dell,8.0,HDD,I5,Brand New,7950,Ashanti
+HP,8.0,SSD,I5,Used,3480,Greater Accra
+HP,8.0,SSD,I5,Used,3500,Greater Accra
+HP,16.0,SSD,I7,Used,4500,Greater Accra
+HP,4.0,HDD,I5,Used,1200,Ashanti
+HP,8.0,HDD,I7,Used,3250,Greater Accra
+HP,4.0,HDD,I3,Brand New,1900,Greater Accra
+Lenovo,20.0,SSD,I7,Used,4000,Greater Accra
+HP,8.0,SSD,I7,Brand New,15000,Greater Accra
+Lenovo,24.0,SSD,I7,Used,7700,Greater Accra
+HP,8.0,SSD,I7,Used,6000,Greater Accra
+Dell,4.0,HDD,I7,Used,1300,Greater Accra
+Acer,16.0,SSD,I7,Brand New,8499,Greater Accra
+Dell,16.0,SSD,I7,Used,3400,Greater Accra
+Asus,8.0,HDD,I7,Used,3500,Greater Accra
+Asus,4.0,HDD,I3,Used,1699,Greater Accra
+Dell,8.0,HDD,I5,Used,1750,Ashanti
+Dell,8.0,SSD,I7,Used,3800,Greater Accra
+Dell,8.0,HDD,I5,Used,1950,Ashanti
+Lenovo,16.0,SSD,I7,Used,8500,Greater Accra
+HP,8.0,SSD,I5,Used,3700,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4999,Greater Accra
+Lenovo,4.0,HDD,I5,Used,850,Greater Accra
+Lenovo,8.0,SSD,I5,Used,7000,Greater Accra
+Dell,8.0,HDD,I5,Used,800,Ashanti
+HP,12.0,SSD,I5,Brand New,10800,Greater Accra
+HP,8.0,SSD,I7,Used,5200,Greater Accra
+Dell,8.0,HDD,I5,Used,2299,Western Region
+HP,8.0,SSD,I5,Brand New,10500,Greater Accra
+HP,8.0,SSD,I7,Used,3000,Greater Accra
+HP,8.0,SSD,I5,Brand New,6000,Greater Accra
+HP,4.0,HDD,I3,Brand New,8992,Greater Accra
+HP,8.0,SSD,I5,Used,3500,Greater Accra
+HP,8.0,SSD,I5,Used,4400,Greater Accra
+HP,8.0,SSD,I5,Brand New,8000,Greater Accra
+HP,8.0,SSD,I5,Used,3299,Greater Accra
+HP,16.0,SSD,I7,Used,7500,Greater Accra
+HP,8.0,SSD,I5,Brand New,7500,Greater Accra
+Dell,8.0,SSD,I5,Used,2500,Ashanti
+Dell,8.0,SSD,I5,Brand New,11000,Greater Accra
+Dell,8.0,SSD,I5,Used,3000,Greater Accra
+Lenovo,16.0,SSD,I5,Brand New,7999,Greater Accra
+Dell,4.0,HDD,I3,Used,1800,Greater Accra
+Asus,8.0,HDD,I7,Used,2150,Greater Accra
+HP,8.0,SSD,I5,Brand New,3890,Greater Accra
+Dell,8.0,HDD,I5,Used,3500,Greater Accra
+HP,8.0,SSD,I7,Used,5000,Greater Accra
+HP,8.0,SSD,I5,Used,2500,Greater Accra
+HP,8.0,HDD,I5,Used,1300,Greater Accra
+HP,16.0,SSD,I7,Used,4900,Greater Accra
+Dell,8.0,SSD,I5,Used,2399,Greater Accra
+Dell,16.0,SSD,I7,Used,7500,Greater Accra
+HP,8.0,HDD,I5,Used,799,Greater Accra
+Asus,16.0,SSD,I7,Used,7000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4750,Greater Accra
+Dell,8.0,SSD,I5,Used,5000,Greater Accra
+Dell,8.0,HDD,I5,Used,1250,Greater Accra
+Dell,8.0,SSD,I5,Unknown,2300,Ashanti
+Dell,8.0,HDD,I5,Used,2700,Ashanti
+MacBook,8.0,SSD,I5,Used,3900,Greater Accra
+HP,8.0,SSD,I5,Used,2990,Greater Accra
+HP,24.0,SSD,I7,Used,8800,Greater Accra
+HP,16.0,SSD,I5,Used,5300,Greater Accra
+Dell,8.0,HDD,I3,Used,1800,Greater Accra
+HP,8.0,SSD,I5,Brand New,10000,Greater Accra
+HP,8.0,SSD,I5,Used,5500,Greater Accra
+MacBook,8.0,SSD,I5,Used,3600,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2050,Ashanti
+Dell,16.0,SSD,I7,Brand New,4950,Greater Accra
+HP,4.0,HDD,I3,Brand New,8000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,2600,Greater Accra
+HP,8.0,HDD,I5,Used,2000,Greater Accra
+HP,16.0,SSD,I5,Used,5400,Greater Accra
+Lenovo,12.0,SSD,I7,Brand New,10500,Greater Accra
+HP,8.0,SSD,I5,Used,4500,Greater Accra
+Lenovo,16.0,SSD,I5,Used,3800,Greater Accra
+Lenovo,8.0,SSD,I7,Used,2800,Greater Accra
+HP,16.0,SSD,I5,Used,3300,Greater Accra
+HP,8.0,SSD,I5,Brand New,17000,Greater Accra
+Dell,16.0,SSD,I7,Used,5500,Greater Accra
+Asus,16.0,SSD,I7,Brand New,13999,Greater Accra
+HP,8.0,SSD,I5,Used,1750,Western Region
+HP,16.0,SSD,I5,Used,6500,Greater Accra
+Dell,8.0,SSD,I7,Used,3500,Greater Accra
+HP,8.0,HDD,I3,Brand New,1900,Greater Accra
+MacBook,4.0,SSD,I5,Used,3000,Greater Accra
+HP,8.0,SSD,I5,Used,4500,Greater Accra
+Lenovo,8.0,HDD,I5,Used,2000,Greater Accra
+Asus,16.0,SSD,I7,Used,4999,Greater Accra
+MacBook,16.0,SSD,I5,Used,13900,Greater Accra
+MacBook,8.0,SSD,I5,Used,7200,Greater Accra
+HP,8.0,SSD,I5,Used,6500,Greater Accra
+HP,8.0,HDD,I5,Used,2800,Greater Accra
+Asus,16.0,SSD,I5,Brand New,5899,Greater Accra
+HP,16.0,SSD,I7,Used,5000,Ashanti
+HP,8.0,SSD,I3,Brand New,5500,Greater Accra
+HP,8.0,SSD,I5,Used,2700,Ashanti
+Dell,8.0,SSD,I5,Used,2800,Greater Accra
+Dell,8.0,SSD,I5,Used,2000,Greater Accra
+Dell,8.0,SSD,I5,Used,5550,Greater Accra
+HP,16.0,HDD,I5,Used,2700,Greater Accra
+HP,16.0,SSD,I7,Used,10000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3900,Ashanti
+Dell,8.0,SSD,I7,Brand New,12688,Greater Accra
+Dell,8.0,SSD,I5,Used,4200,Greater Accra
+HP,8.0,HDD,I5,Used,3200,Greater Accra
+Lenovo,8.0,SSD,I7,Brand New,2400,Ashanti
+HP,8.0,SSD,I5,Unknown,3750,Greater Accra
+Asus,16.0,SSD,I5,Brand New,9000,Greater Accra
+MacBook,8.0,SSD,I7,Used,4200,Greater Accra
+HP,16.0,SSD,I5,Used,5800,Greater Accra
+MacBook,8.0,SSD,I5,Used,8000,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4200,Eastern Region
+HP,8.0,SSD,I5,Used,2950,Greater Accra
+HP,16.0,SSD,I7,Used,7500,Greater Accra
+HP,16.0,SSD,I7,Used,4690,Greater Accra
+Lenovo,8.0,HDD,I5,Used,2450,Ashanti
+HP,8.0,HDD,I3,Used,1950,Greater Accra
+HP,8.0,SSD,I5,Used,2800,Greater Accra
+HP,4.0,HDD,I3,Used,1750,Greater Accra
+Dell,16.0,SSD,I7,Unknown,4500,Greater Accra
+Lenovo,8.0,SSD,I5,Used,4800,Ashanti
+HP,4.0,HDD,I3,Used,1690,Brong Ahafo
+Dell,8.0,HDD,I3,Used,2300,Greater Accra
+Dell,8.0,HDD,I5,Used,950,Ashanti
+Asus,8.0,HDD,I5,Used,1850,Greater Accra
+HP,8.0,HDD,I5,Used,2300,Greater Accra
+MacBook,8.0,SSD,I5,Used,9200,Greater Accra
+Dell,32.0,SSD,I7,Used,14000,Greater Accra
+Dell,8.0,HDD,I7,Brand New,9800,Greater Accra
+HP,16.0,SSD,I7,Used,6500,Greater Accra
+Asus,8.0,HDD,I5,Brand New,1900,Ashanti
+Asus,8.0,HDD,I7,Used,2000,Eastern Region
+HP,16.0,SSD,I5,Used,5500,Ashanti
+Dell,24.0,SSD,I7,Used,7580,Greater Accra
+Dell,6.0,HDD,I3,Used,1550,Greater Accra
+HP,16.0,SSD,I5,Used,3850,Greater Accra
+HP,8.0,HDD,I5,Used,2600,Western Region
+HP,8.0,SSD,I5,Used,4200,Ashanti
+Lenovo,8.0,HDD,I3,Used,1599,Ashanti
+HP,16.0,SSD,I7,Brand New,7300,Greater Accra
+MacBook,8.0,SSD,I5,Used,5200,Greater Accra
+MacBook,4.0,SSD,I5,Used,2150,Ashanti
+Lenovo,8.0,SSD,I3,Used,2350,Greater Accra
+HP,8.0,SSD,I5,Brand New,8200,Ashanti
+Lenovo,8.0,SSD,I5,Used,3100,Greater Accra
+HP,4.0,HDD,I3,Used,2599,Greater Accra
+Dell,8.0,HDD,I3,Brand New,5550,Greater Accra
+HP,8.0,HDD,I7,Used,1350,Greater Accra
+Dell,8.0,SSD,I5,Used,2700,Greater Accra
+Dell,4.0,HDD,I3,Used,1700,Greater Accra
+Lenovo,12.0,SSD,I7,Used,10000,Greater Accra
+HP,8.0,SSD,I5,Used,2850,Ashanti
+Asus,4.0,HDD,I3,Used,1500,Greater Accra
+Acer,12.0,HDD,I5,Unknown,3050,Greater Accra
+Dell,4.0,HDD,I5,Brand New,1000,Ashanti
+HP,8.0,SSD,I5,Brand New,10600,Greater Accra
+MacBook,8.0,HDD,I7,Used,2400,Greater Accra
+Dell,16.0,SSD,I7,Brand New,14500,Greater Accra
+Acer,8.0,SSD,I5,Used,4400,Greater Accra
+HP,4.0,HDD,I5,Used,1950,Western Region
+HP,12.0,SSD,I3,Used,3500,Greater Accra
+MacBook,6.0,HDD,I7,Used,1500,Greater Accra
+MacBook,16.0,SSD,I7,Used,12500,Greater Accra
+Dell,8.0,SSD,I5,Used,2350,Greater Accra
+Dell,8.0,SSD,I5,Brand New,8000,Greater Accra
+MacBook,8.0,SSD,I5,Used,7000,Greater Accra
+MacBook,16.0,SSD,I7,Used,4700,Greater Accra
+Lenovo,8.0,SSD,I7,Used,3300,Greater Accra
+Dell,8.0,HDD,I7,Used,8600,Greater Accra
+HP,16.0,SSD,I7,Used,5500,Greater Accra
+MacBook,8.0,HDD,I5,Used,2450,Greater Accra
+HP,8.0,SSD,I3,Used,2600,Greater Accra
+Dell,8.0,SSD,I5,Unknown,2200,Ashanti
+Lenovo,8.0,SSD,I5,Used,3500,Greater Accra
+Lenovo,8.0,SSD,I5,Unknown,2600,Greater Accra
+HP,12.0,HDD,I5,Unknown,3800,Greater Accra
+Dell,8.0,SSD,I5,Used,2000,Greater Accra
+HP,16.0,SSD,I5,Brand New,15000,Greater Accra
+MacBook,8.0,SSD,I5,Used,6150,Greater Accra
+Dell,4.0,HDD,I3,Used,1400,Ashanti
+HP,8.0,HDD,I5,Used,2800,Greater Accra
+HP,16.0,SSD,I7,Used,4000,Ashanti
+MacBook,4.0,HDD,I5,Used,2600,Greater Accra
+Acer,16.0,SSD,I5,Brand New,7950,Greater Accra
+Asus,16.0,HDD,I7,Used,4000,Greater Accra
+Lenovo,32.0,SSD,I7,Brand New,8399,Greater Accra
+MacBook,16.0,SSD,I7,Used,8500,Greater Accra
+Dell,8.0,SSD,I7,Used,3400,Greater Accra
+MacBook,8.0,HDD,I5,Used,2650,Greater Accra
+HP,8.0,SSD,I5,Brand New,8800,Greater Accra
+Acer,8.0,HDD,I7,Used,2450,Greater Accra
+Dell,8.0,HDD,I3,Used,2400,Ashanti
+HP,8.0,SSD,I7,Brand New,6000,Greater Accra
+HP,8.0,HDD,I3,Used,1500,Greater Accra
+HP,16.0,SSD,I5,Used,4900,Greater Accra
+HP,8.0,SSD,I5,Used,3750,Greater Accra
+HP,8.0,SSD,I5,Used,5000,Greater Accra
+HP,8.0,SSD,I5,Brand New,4850,Ashanti
+Lenovo,4.0,SSD,I3,Used,2250,Greater Accra
+Dell,16.0,SSD,I7,Used,4650,Greater Accra
+HP,8.0,SSD,I5,Used,3150,Greater Accra
+HP,8.0,SSD,I5,Brand New,4000,Ashanti
+Lenovo,8.0,SSD,I3,Used,2900,Greater Accra
+HP,4.0,HDD,I3,Brand New,6800,Greater Accra
+Dell,8.0,SSD,I5,Used,3000,Ashanti
+Dell,8.0,HDD,I5,Used,2300,Greater Accra
+Asus,8.0,HDD,I5,Used,2100,Ashanti
+Dell,8.0,HDD,I7,Used,2600,Brong Ahafo
+Dell,8.0,SSD,I7,Used,8550,Greater Accra
+Dell,12.0,SSD,I5,Used,2500,Greater Accra
+HP,4.0,SSD,I5,Used,4500,Greater Accra
+HP,8.0,SSD,I5,Used,3500,Greater Accra
+Lenovo,8.0,HDD,I7,Brand New,2550,Ashanti
+Dell,8.0,HDD,I5,Used,2600,Greater Accra
+HP,8.0,SSD,I7,Used,4000,Greater Accra
+Lenovo,8.0,HDD,I5,Used,1650,Greater Accra
+Dell,16.0,SSD,I5,Used,5100,Greater Accra
+HP,16.0,SSD,I5,Brand New,9000,Greater Accra
+HP,8.0,SSD,I5,Brand New,10740,Greater Accra
+Dell,8.0,SSD,I7,Used,4500,Greater Accra
+MacBook,8.0,SSD,I5,Used,3800,Greater Accra
+HP,8.0,SSD,I5,Used,8500,Brong Ahafo
+Dell,8.0,SSD,I5,Used,3250,Central Region
+HP,8.0,SSD,I5,Brand New,11500,Greater Accra
+Acer,8.0,SSD,I3,Used,3500,Ashanti
+HP,16.0,SSD,I7,Used,7500,Greater Accra
+Lenovo,8.0,HDD,I5,Brand New,6800,Greater Accra
+HP,8.0,SSD,I5,Used,3500,Greater Accra
+Asus,8.0,SSD,I5,Used,1800,Ashanti
+Dell,8.0,SSD,I5,Brand New,9500,Greater Accra
+Acer,16.0,SSD,I5,Used,9500,Ashanti
+HP,8.0,SSD,I7,Used,6700,Ashanti
+HP,8.0,SSD,I3,Used,2599,Central Region
+HP,8.0,SSD,I5,Used,4500,Greater Accra
+HP,16.0,SSD,I7,Used,12000,Greater Accra
+MacBook,4.0,HDD,I5,Used,2500,Greater Accra
+HP,8.0,SSD,I5,Used,3200,Western Region
+Asus,4.0,HDD,I3,Used,1500,Greater Accra
+Dell,4.0,HDD,I5,Used,1750,Greater Accra
+HP,8.0,SSD,I5,Used,2300,Greater Accra
+Lenovo,32.0,SSD,I7,Used,6200,Greater Accra
+HP,16.0,SSD,I7,Used,4450,Greater Accra
+HP,8.0,SSD,I7,Used,5700,Greater Accra
+Dell,8.0,SSD,I5,Brand New,6000,Greater Accra
+Dell,16.0,SSD,I5,Brand New,10000,Greater Accra
+HP,16.0,SSD,I7,Brand New,9500,Greater Accra
+HP,8.0,HDD,I3,Used,1500,Greater Accra
+HP,8.0,SSD,I3,Brand New,4950,Greater Accra
+Dell,16.0,SSD,I7,Unknown,5000,Greater Accra
+Lenovo,16.0,SSD,I7,Used,4000,Greater Accra
+HP,18.0,SSD,I7,Used,2300,Greater Accra
+Dell,8.0,SSD,I7,Brand New,4900,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3299,Central Region
+Dell,16.0,SSD,I5,Brand New,8400,Greater Accra
+HP,8.0,SSD,I3,Brand New,2500,Central Region
+HP,8.0,SSD,I5,Used,4200,Greater Accra
+HP,16.0,SSD,I7,Brand New,14000,Greater Accra
+Asus,8.0,HDD,I5,Used,2150,Brong Ahafo
+HP,8.0,SSD,I5,Used,5899,Greater Accra
+MacBook,16.0,SSD,I5,Used,5600,Greater Accra
+HP,16.0,HDD,I7,Used,3200,Greater Accra
+Acer,6.0,HDD,I5,Used,1850,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3200,Greater Accra
+Dell,32.0,SSD,I7,Used,8500,Greater Accra
+Dell,8.0,SSD,I5,Used,2300,Greater Accra
+Acer,24.0,SSD,I5,Used,9800,Greater Accra
+HP,8.0,HDD,I5,Used,3250,Greater Accra
+HP,8.0,SSD,I5,Used,4200,Greater Accra
+Dell,4.0,HDD,I5,Used,1700,Greater Accra
+Lenovo,8.0,SSD,I5,Brand New,4800,Ashanti
+HP,8.0,SSD,I5,Brand New,12500,Greater Accra
+HP,8.0,SSD,I5,Brand New,10800,Greater Accra
+HP,8.0,SSD,I5,Used,5000,Greater Accra
+MacBook,16.0,SSD,I7,Used,3500,Ashanti
+Dell,8.0,SSD,I7,Used,3150,Greater Accra
+Lenovo,8.0,SSD,I5,Used,3200,Greater Accra
+Dell,16.0,HDD,I7,Used,2650,Greater Accra
+Lenovo,8.0,HDD,I5,Used,2000,Greater Accra
+HP,8.0,SSD,I5,Used,5000,Greater Accra
